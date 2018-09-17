@@ -1,1 +1,1 @@
-# work-120
+This is Katherine Goin's repo for course work related to Creative Coding 1.
