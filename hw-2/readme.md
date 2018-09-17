@@ -1,6 +1,6 @@
 ###Katherine Goin
-##MART 102
-##09-16-18 - Week 2
+<p>##MART 102
+<p>##09-16-18 - Week 2
 
 1. This week I created a GitHub account and installed GitHub Desktop, and practiced creating new files (`.txt`, `.md`) and repositories in GitHub desktop, as well as changing and moving files to learn what a commit is and to show how changes will be tracked in the text editor.
 
